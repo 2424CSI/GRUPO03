@@ -1,0 +1,7 @@
+Documento de: 1000000 palabras
+Tiempo para leer el archivo:113.88826370239258 milisegundos
+Tiempo para generar la clave: 0.0 milisegundos
+Tiempo para cifrar el texto: 14755.461692810059 milisegundos
+Tiempo para descifrar el texto: 3910.5007648468018 milisegundos
+Caracteres en el archivo: 6332800
+Caracteres en el archivo cifrado: 7332608

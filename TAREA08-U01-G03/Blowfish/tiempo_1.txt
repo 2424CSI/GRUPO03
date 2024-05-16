@@ -1,0 +1,7 @@
+Documento de: 10 palabras
+Tiempo para leer el archivo:0.0 milisegundos
+Tiempo para generar la clave: 0.99945068359375 milisegundos
+Tiempo para cifrar el texto: 0.99945068359375 milisegundos
+Tiempo para descifrar el texto: 0.0 milisegundos
+Caracteres en el archivo: 52
+Caracteres en el archivo cifrado: 64
